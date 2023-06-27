@@ -1,6 +1,8 @@
 # Slider-web-with-js
 ¡Give your website a special look with this simple Slider!  ✨
 
+[Slider.webm](https://github.com/valeriaRaizzman/Slider-web-with-js/assets/132442225/e0fb6dd4-42b5-47e5-b992-cdf98301743c)
+
 
 <i>This project is a simple web page that showcases two popular gaming consoles, Playstation 5 and Xbox Series X, using a split-screen layout. Users can hover over each split to highlight and interact with the respective console.</i>
 
