@@ -1,4 +1,4 @@
-# Slider-web-with-js
+# Slider-web-with-JSvanilla
 ¡Give your website a special look with this simple Slider!  ✨
 
 [Slider.webm](https://github.com/valeriaRaizzman/Slider-web-with-js/assets/132442225/e0fb6dd4-42b5-47e5-b992-cdf98301743c)
